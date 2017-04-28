@@ -1,0 +1,699 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pers",
+				"PersonDetail"
+			],
+			[
+				"P",
+				"PhoneBook"
+			],
+			[
+				"add",
+				"addDay"
+			],
+			[
+				"Mission",
+				"MissionDayCount"
+			],
+			[
+				"Miss",
+				"MissionDayList"
+			],
+			[
+				"pr",
+				"PropTypes"
+			],
+			[
+				"Prop",
+				"PropTypes"
+			],
+			[
+				"prop",
+				"propTypes"
+			],
+			[
+				"md",
+				"MdLocationCity"
+			],
+			[
+				"M",
+				"MdLocationCity"
+			],
+			[
+				"cals",
+				"calcGoalProgress"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"header",
+				"headerHeight"
+			],
+			[
+				"tota",
+				"totalMargin"
+			],
+			[
+				"tot",
+				"totalMargin"
+			],
+			[
+				"heigh",
+				"heightAdjustment"
+			],
+			[
+				"nav",
+				"navHeight"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"list-styl",
+				"list-style-type"
+			],
+			[
+				"slide",
+				"slideHeight"
+			],
+			[
+				"curr",
+				"currentSlide"
+			],
+			[
+				"crre",
+				"currentSlide"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"slideshow",
+				"slideshowTotal"
+			],
+			[
+				"sli",
+				"slideshowTotal"
+			],
+			[
+				"s",
+				"show"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"show",
+				"showProfile"
+			],
+			[
+				"pro",
+				"profile_id"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"Ab",
+				"AB9353"
+			],
+			[
+				"ab",
+				"AB9353"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"review",
+				"review"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"str_",
+				"str_split"
+			],
+			[
+				"foreach",
+				"foreachCount"
+			],
+			[
+				"foreac",
+				"foreachCount"
+			],
+			[
+				"rating",
+				"ratingCount"
+			],
+			[
+				"revie",
+				"reviewCount"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"getElemn",
+				"getElementById"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
+				"node",
+				"nodeValue"
+			],
+			[
+				"nod",
+				"nodeValue"
+			],
+			[
+				"cos",
+				"colspan"
+			],
+			[
+				"child",
+				"childCount"
+			],
+			[
+				"no",
+				"noSearches"
+			],
+			[
+				"tt-",
+				"tt-selectable"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"id",
+				"idInput"
+			],
+			[
+				"name",
+				"nameInput"
+			],
+			[
+				"tex",
+				"text_val"
+			],
+			[
+				"search",
+				"searchBoth"
+			],
+			[
+				"phil",
+				"philanthropist"
+			],
+			[
+				"ph",
+				"philanthropists"
+			],
+			[
+				"searc",
+				"searchNames"
+			],
+			[
+				"re",
+				"reportPrototype"
+			],
+			[
+				"searh",
+				"searchName"
+			],
+			[
+				"sear",
+				"searchNames"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"Search",
+				"searchIds"
+			],
+			[
+				"searchI",
+				"searchIds"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 56.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/src/components/Whoops404.js",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/dist/index.html",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/webpack.config.js",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/dist/assets/bundle.js",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/src/css/index.scss",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/node_modules/react/package.json",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/npm-debug.log",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/package.json",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/.babelrc",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/src/index.js",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/src/components/index.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start_old/dist/assets/bundle.js",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/bablerc.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start_old/src/index.js",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/hello-world.js",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/index.js",
+		"/Users/brookebailey/Documents/websites/react-sites/site-1/dist/index.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start_old/.babelrc",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/index.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/ui/Member.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/webpack.config.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/node_modules/.bin/babel-external-helpers",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch07/07_01/start/package.json",
+		"/Users/brookebailey/Documents/websites/cart/checkout/add-shipping.php",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/index.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/Member.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch07/07_01/start/src/components/index.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/AddDayForm.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/stylesheets/index.scss",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/MissionDayRow.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/App.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/index-pre7.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/members.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch05/05_05/start/src/components/index.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch05/05_05/start/src/index.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch05/05_05/start/src/routes.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/MissionDayCount.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/Whoops404.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/MissionDayList.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/Menu.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/index-paths.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/menu.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/App-orig.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/app.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/MissionDayCount-ES6.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/MissionDayCount-createClass.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/stylesheets/hello.css",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/stylesheets/goodbye.scss",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/lib.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/index-count.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/MissionDayCount-es6.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/MissionDayCount-prees6.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/components/SkiDayCount-org.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/index-org.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/dist/assets/bundle.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/dist/index.html",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/title.json",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/src/skiDayCount.js",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/finish/package.json",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/package.json",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_04/start/.babelrc",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_06/start/dist/index.html",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_01/start/dist/index.html",
+		"/Users/brookebailey/Documents/websites/Ex_Files_React_EssT/Ch02/02_01/start/dist/index.js",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/js/custom.js",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/projects/index.html",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/projects/medical.html",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/education/school.html",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/trips.html",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/projects/orphanage.html",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/projects/school.html",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/projects/church.html",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/about/staff.html",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/about/index.html",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/education/vbs.html",
+		"/Users/brookebailey/Documents/websites/basic-site-scratch/contact.html",
+		"/Users/brookebailey/Documents/websites/cart/index.html",
+		"/Users/brookebailey/Documents/websites/cart/includes/sidenav.php",
+		"/Users/brookebailey/Documents/websites/cart/includes/navbar.php",
+		"/Users/brookebailey/Documents/websites/cart/about.php",
+		"/Users/brookebailey/Documents/websites/cart/css/shop-homepage.css",
+		"/Users/brookebailey/Documents/websites/cart/viewcart.php",
+		"/Users/brookebailey/Documents/websites/cart/products.php",
+		"/Users/brookebailey/Documents/websites/cart/index.php",
+		"/Users/brookebailey/Documents/websites/cart/contact.php",
+		"/Users/brookebailey/Documents/websites/cart/locations.php",
+		"/Users/brookebailey/Documents/websites/cart/product-detail.php",
+		"/Users/brookebailey/Documents/websites/cart/addItem.php",
+		"/Users/brookebailey/Documents/websites/cart/updateCart.php",
+		"/Users/brookebailey/Documents/websites/new old/site/scss/_core.scss",
+		"/Users/brookebailey/Documents/websites/eumc old/public_html/calendar_edit.php",
+		"/Users/brookebailey/Documents/websites/eumc old/public_html/calendar_update.php",
+		"/Users/brookebailey/Documents/websites/eumc old/public_html/calendar_update_FORM.php",
+		"/Users/brookebailey/Documents/websites/eumc old/public_html/calendar.php",
+		"/Users/brookebailey/Documents/websites/oliveeuhdesigns/config/config.local.php",
+		"/Users/brookebailey/Documents/websites/oliveeuhdesigns/config/config.dev.php",
+		"/Users/brookebailey/Documents/websites/oliveeuhdesigns/config/config.master.php",
+		"/Users/brookebailey/Documents/websites/oliveeuhdesigns/content/eumcadmin.php",
+		"/Users/brookebailey/Documents/websites/oliveeuhdesigns/content/index.php",
+		"/Users/brookebailey/Documents/websites/oliveeuhdesigns/system/index.html",
+		"/Users/brookebailey/Documents/websites/oliveeuhdesigns/system/index.php",
+		"/Users/brookebailey/Documents/websites/EUMC_7_6_16/assets/templates/default_site/vacation-bible-school.group/thank-you.html",
+		"/Users/brookebailey/Documents/websites/eumc_backup_7_8_16/vbsregistration.html",
+		"/Users/brookebailey/Documents/websites/EUMC_7_6_16/assets/templates/default_site/preschool.group/detail.html",
+		"/Users/brookebailey/Documents/websites/joe_copolla/finalProject/candidates.html",
+		"/Users/brookebailey/Dropbox/Nerd Bank/basic-test.html",
+		"/Users/brookebailey/Dropbox/Nerd Bank/addPhilanthropist.html",
+		"/Users/brookebailey/Dropbox/Nerd Bank/detail.html",
+		"/Users/brookebailey/Dropbox/Nerd Bank/reportPrototype.xml",
+		"/Users/brookebailey/Dropbox/Nerd Bank/brookes.html",
+		"/Users/brookebailey/Dropbox/Nerd Bank/bloodhound.js",
+		"/Users/brookebailey/Dropbox/Nerd Bank/tokenizers.js",
+		"/Users/brookebailey/Dropbox/Nerd Bank/index.html",
+		"/Users/brookebailey/Downloads/contactReportPrototypeComments_ajax_working.html",
+		"/Users/brookebailey/Documents/websites/The Sole Story/gallery.html",
+		"/Users/brookebailey/Documents/websites/The Sole Story/contact.html",
+		"/Users/brookebailey/Documents/websites/The Sole Story/faqs.html",
+		"/Users/brookebailey/Documents/websites/EUMC/public_html/assets/css/style-original.css",
+		"/Users/brookebailey/Dropbox/Nerd Bank/js/jquery-migrate-1.2.1.min.js",
+		"/Users/brookebailey/Documents/websites/The Sole Story/about.html",
+		"/Users/brookebailey/Dropbox/protocol/contactReportPrototypeComments_ajax_working.html",
+		"/Users/brookebailey/Documents/jcmk-avera-master/web/content/contactReportPrototype/contactReportPrototype.html",
+		"/Users/brookebailey/Documents/jcmk-avera-master/web/content/contactReportPrototype/contactReportPrototype_ended.html",
+		"/Users/brookebailey/Downloads/contactReportPrototype/contactReportPrototype.html",
+		"/Users/brookebailey/Dropbox/Nerd Bank/duh.html",
+		"/Users/brookebailey/Downloads/index.html",
+		"/Users/brookebailey/Documents/websites/EUMC/public_html/assets/css/style.css",
+		"/Users/brookebailey/Documents/websites/EUMC/public_html/assets/css/eumcStyles.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"personDetail",
+			"backcountry",
+			"powder",
+			"skiday",
+			"backcountry",
+			"powder",
+			"skidaycount",
+			"data",
+			"contractor",
+			"active",
+			"eac67a",
+			"155765",
+			"ab9353",
+			"4d2c3d",
+			"984b43",
+			"2332",
+			"155765",
+			"45657f",
+			"ab9353",
+			"4d2c3d",
+			"155765",
+			"1d2731",
+			"4d2c3d",
+			"Ab9353",
+			"AB9353",
+			"<button",
+			"=\"  ",
+			"/******* General Template Styles ********/\nbody\n{\n	background: #4D2C3D;	\n}\n\n.container\n{\n	background: #ffffff;\n}\n\n.row\n{\n	margin: 20px 0;\n}\n\nh1,\nh2,\nh3,\nh4,\nh5,\nh6\n{\n	color: #ab9353;\n}\n\na:hover\n{\n	color: #AB9353;\n}\n\n\n/******* Header Styles ********/\n\n#header\n{\n	text-align:center;\n}\n\n\n/******* Navigation Styles (no hover) ********/\n\n.header-menu\n{\n	background: #45657F;\n}\n\n.nav\n{\n	background-color: #155765;\n}\n\n.nav li\n{\n	background: #155765;\n	text-align: center;\n	position: relative;\n	border-left: solid 1px  #AB9353;\n	color: #fff;\n}\n\n.nav a\n{\n	color: #ffffff;\n	padding: 7px 11px;\n}\n\n.nav ul li,\n.nav ul\n{\n	list-style-type:none;\n	text-align:left;\n	background: transparent;\n	z-index: 1000;\n	position: relative;\n	border: none;\n	top: 20px;\n}\n\n.nav ul li\n{\n	background: #155765;\n}\n\n.sub-nav li a\n{\n	width: 100%;\n	display: inline-block;\n}\n\n.sub-nav\n{\n	padding-left: 0;\n	position: absolute;\n	top:43px;\n}\n.sub-nav .sub-nav\n{\n	top:0px;\n	padding: 7px;\n	z-index:2;\n	visibility:hidden;\n}\n\n.sub-nav .sub-nav li\n{\n	border-left: none;\n}\n\nul.sub-nav\n{\n	position: absolute;\n	width: 150px !important;\n	word-wrap: normal;\n}\n\n.nav .active .sub-nav li a\n{\n	background: orange;\n}\n\n.sub-nav .sub-nav li\n{\n	display:none;\n}\n\n.hamburger .mobile-nav\n{\n	display: none;\n}\n\nul.mobile-nav, \nul.mobile-nav ul\n{\n	list-style-type: none;\n}\n\n#hamburger-menu a\n{\n	display: block;\n	text-decoration: none;\n}\n#hamburger-menu a:hover\n{\n	color: #337ab7;\n}\n.hamburger\n{\n	color: #337ab7;\n	cursor: pointer;\n}\n\n#hamburger-menu\n{\n	background: #4D2C3D;\n	padding: 10px;\n	font-size: 1.3em;\n}\n\n/******* Navigation Styles (hover) ********/\n\n.sub-nav .sub-nav li:hover\n{\n	z-index: 2000 !important;\n}\n\n.nav li a:hover\n{\n	text-decoration: none;\n}\n\n.nav li.active,\n.nav li.active a,\n.nav li a:hover,\n.nav li.active a:hover\n{\n	background: #AB9353 !important;\n	border-radius: 0;\n	/*border: 1px solid #AB9353;*/\n	/*height:40px;*/\n}\n\n.nav li\n.nav a\n{\n	border: 0 !important;\n}\n\n.nav-pills>li+li\n{\n	margin-left: 0px !important;\n}\n\n.nav\n{\n	height:40px;\n}\n\n/*************  Page title *************/\n#page-header\n{\n	border-bottom: 1px solid #AB9353;\n	padding-bottom: 20px;\n}\n\n\n/******* Footer Styles ********/\n\n.footer-row\n{\n	background: #155765;\n	color: #fff;\n	padding: 7px 11px;\n}\n.footer-row h5\n{\n	border-bottom: 1px solid #AB9353;\n	padding-bottom: 20px;\n}\n\n.footer-row p\n{\n	color: #fff;\n\n	margin: 0;\n}\n\n.copyright\n{\n	border-top: 1px solid grey;\n	padding: 10px 0;\n	margin-top:10px;\n}\n\n/******* slider Styles ********/\nul#slideshow li\n{\n	list-style-type: none;\n\n}\n.slide\n{\n	position:absolute;\n	display:none;\n}\n#slide1\n{\n	display: block;\n}\nul#slideshow\n{\n	position: relative;\n	padding-left: 0;\n}\n\n\n\n/******************  Side Navigation *******************/\n\nul.side-nav\n{\n	list-style-type: none;\n	padding: 0 ;\n}\n\nul.side-nav li\n{\n	padding: 7px 11px;\n	border-bottom: 1px solid #AB9353;\n}\nul.side-nav li a\n{\n	width: 100%;\n	display:inline-block;\n}\nul.side-nav li a:hover\n{\n	text-decoration: none;\n}\n\nul.side-nav .side-nav-active\n{\n	background: #AB9353;\n}\n\nul.side-nav .side-nav-active a\n{\n	color: #fff;\n}\n/********************  Trips ***************************/\n.trip\n{\n	border-bottom: 1px solid #4d2c3d;\n	padding-bottom: 10px;\n	margin-bottom: 20px;\n}\n/****************** Staff *************************/\na\n{\n	cursor: pointer;\n}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"1000",
+			"visibility:",
+			"visibility: ",
+			"***************************/",
+			"250",
+			"col-sm-8",
+			"col-lg-3",
+			"read More",
+			"border",
+			"8BCBFF",
+			"container",
+			"middle",
+			"$_POST",
+			"product_id",
+			"$_GET",
+			"product_stock",
+			"}\n",
+			"reviews",
+			"                        \n",
+			"reviews",
+			"col",
+			"echo \"",
+			"\n                        ",
+			"\">",
+			"=\"",
+			">\";\n",
+			"echo ",
+			"oliveeuhdesign",
+			"#62bfe6",
+			"fontawesome",
+			"a:hover",
+			"4ab5e2",
+			"57aacd",
+			".btn",
+			".hr",
+			"searches",
+			"field",
+			"fiel",
+			"field",
+			"8",
+			"console.log(string)",
+			"$(x).find(\"id:contains(\" + $(this).text() + \")\")\n	            .siblings(\"name\").text()",
+			"<a href=''>",
+			"phil",
+			"range",
+			"idNameValue",
+			"() ",
+			"http",
+			"tr",
+			"#demo",
+			"table",
+			"</table",
+			"document",
+			"demo",
+			"findM",
+			"cb",
+			"{\n",
+			"$('#name .typeahead').typeahead({\n  hint: true,\n  highlight: true,\n  minLength: 1\n},\n{\n  name: 'searchNames',\n  source: substringMatcher(searchNames)\n});",
+			"\n  ",
+			"html",
+			"12",
+			"@media",
+			"media",
+			"notice",
+			"/assets/",
+			"@media",
+			"menu-toggle",
+			"@media",
+			"logo",
+			"media"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PhoneBook.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
